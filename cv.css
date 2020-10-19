@@ -3,15 +3,30 @@ nav {
     width: 90%;
     margin: 0 auto;
     font-size: 1rem;
+    border-bottom: 2px solid blue;
+    background-color: white;
+    
+}
+
+.margtopo {
+    margin-top: 2px;
 }
 
 h1 {
     font-size: 4rem;
+    margin-bottom: 0;
 }
 
+
+
+body {
+    
+}
 
 main {
     width: 70%;
     margin: 0 auto;
+    background-color: white;
+    
     
 }
