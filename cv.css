@@ -5,28 +5,37 @@ nav {
     font-size: 1rem;
     border-bottom: 2px solid blue;
     background-color: white;
-    
 }
 
 .margtopo {
     margin-top: 2px;
 }
+.margboto {
+    margin-bottom: 3px;
+}
+.margbot1 {
+    margin-bottom: 13px;
+}
 
 h1 {
     font-size: 4rem;
     margin-bottom: 0;
+    color: blue;
 }
 
+h3 {
+    margin-bottom: 6px;
+    margin-top: 1px;
+}
 
-
+/*
 body {
     
 }
+*/
 
 main {
     width: 70%;
     margin: 0 auto;
     background-color: white;
-    
-    
 }
